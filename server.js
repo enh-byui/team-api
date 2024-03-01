@@ -6,7 +6,7 @@ const app = express();
 
 app.get('/', (req,res) => {res.send("Hello Browser")});
 
-app.get('/erick', (req,res) => {res.send("Hello Erick Nava")});
+app.get('/erick', (req,res) => {res.send("erick")});
 
 app.get('/angelica', (req,res) => {res.send("Hello Angelica")}); 
 
