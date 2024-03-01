@@ -10,7 +10,7 @@ app.get('/erick', (req,res) => {res.send("erick")});
 
 app.get('/angelica', (req,res) => {res.send("Hello Angelica")}); 
 
-app.get('/Mike', (req,res) => {res.send("Hello Mike")});
+app.get('/Mike', (req,res) => {res.send("Mike")});
 
 app.get('/skyler', (req,res) => {res.send("skyler")});
 
